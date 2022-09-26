@@ -1,0 +1,3 @@
+C:/Users/ageev/CLionProjects/DataBaseLab1/cmake-build-debug/CMakeFiles/DataBaseLab1.dir
+C:/Users/ageev/CLionProjects/DataBaseLab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ageev/CLionProjects/DataBaseLab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
